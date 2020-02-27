@@ -11,3 +11,5 @@
 ### 测试步骤：
 * 1.打开网站
 * 2.输入测试地址： ![image](https://s3-us-west-1.amazonaws.com/img.firmoo.com/images/users/2020/0227/1167650442.png)
+* 3.选择测试浏览器/测试设备 ![image](https://s3-us-west-1.amazonaws.com/img.firmoo.com/images/users/2020/0227/495273055.png)
+
