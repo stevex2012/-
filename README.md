@@ -10,4 +10,4 @@
 
 ### 测试步骤：
 * 1.打开网站
-* 2.输入测试地址：![步骤一](https://s3-us-west-1.amazonaws.com/img.firmoo.com/images/users/2020/0227/1167650442.png)
+* 2.输入测试地址：![步骤一]:https://s3-us-west-1.amazonaws.com/img.firmoo.com/images/users/2020/0227/1167650442.png
